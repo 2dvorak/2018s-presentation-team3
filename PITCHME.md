@@ -17,7 +17,7 @@ Briefly talk about your team and team name. Why did you choose the team name?
 
 ---?include=members/seungyeop.md
 
----?include=members/nakjun.md 
+---?include=members/nakjun.md
 
 ---?include=members/sejin.md
 
