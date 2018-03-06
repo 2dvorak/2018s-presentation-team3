@@ -13,21 +13,13 @@ Briefly talk about your team and team name. Why did you choose the team name?
 
 ### BODY
 
----
+---?include=members/donghyeon.md
 
-?include=members/donghyeon.md
+---?include=members/seungyeop.md
 
----
+---?include=members/nakjun.md 
 
-?include=members/seungyeop.md
-
----
-
-?include=members/nakjun.md 
-
----
-
-?include=members/sejin.md
+---?include=members/sejin.md
 
 ---
 
