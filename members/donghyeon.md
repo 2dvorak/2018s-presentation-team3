@@ -8,7 +8,7 @@
 
 ![Logo](images/zany.png)
 @fa[plus gp-tip]
----?image=images/real_whale.jpeg&size=auto 60% |
+![Logo](images/real_whale.jpeg) |
 
 ![Logo](images/whale.png)
 
