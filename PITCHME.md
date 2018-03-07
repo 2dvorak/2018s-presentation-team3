@@ -6,9 +6,11 @@ DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil
 
 ### TEAM INTRODUCTION
 
-Briefly talk about your team and team name. Why did you choose the team name?
-@skyshiri
+컬링 사진(HER 하는 사진을 넣는다)
 
+HER의 의미 ???
+
+갈고 닦겠다
 ---
 
 ### BODY
@@ -28,4 +30,3 @@ Briefly talk about your team and team name. Why did you choose the team name?
 Try to make a good final impression here. You should try to make people want to
 know more about you. Each team can spend at most 1 min. for both introduction
 and conclusion slide.
-
