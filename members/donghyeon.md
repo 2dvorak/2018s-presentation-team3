@@ -6,13 +6,17 @@
 
 닉네임 : zanywhale
 
+![Logo](images/zany.png)
+@fa[plus gp-tip]
+---?image=images/real_whale.jpeg&size=auto 60% |
+
 ![Logo](images/whale.png)
 
 ---
 
 연구실 : 아직 미정
 
-관심 분야 : System Hacking, CTF, Fuzzing 
+관심 분야 : Reversing, Exploit, CTF
 
 남들과는 차별화 된 경력 or 유별난 취미/특기 : PyCON 가위바위보 대회 4위
 
@@ -21,9 +25,9 @@
 
 ### 개발 환경
 
-
 Windows / Sublime Text 3 (+SFTP) / Atom / Putty / TMUX
-Gramtosh
+Linux / Qt Creator / vim
+Mac / Gramtosh
 
 
 ---
