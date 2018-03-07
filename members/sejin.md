@@ -1,13 +1,15 @@
 ## 정세진
 
 제주도 사진( ICE Break )
+
 ?image=images/Break&size=auto 100%
 
 ---
 
 닉네임 : skyshiri
   - s k y : 공군에서 국가안보에 기여
-  - shiri : 영화 "쉬리"처럼 가치있는 삶      
+  - shiri : 영화 "쉬리"처럼 가치있는 삶     
+
 ?image=images/shiri&size=auto 100%
 
 연구실 : CySec(Cyber Security Lab, 강병훈 교수)
@@ -23,6 +25,7 @@
 취미/특기 : 족구
   - 족구는 공군 스포츠(1966년 11전투비행단에서 유래)
   - 잘하지는 못하지만 그나마..
+
 ?image=images/soccer&size=auto 100%
 ---
 
