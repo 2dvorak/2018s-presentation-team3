@@ -11,7 +11,7 @@ HER 의미
  - 빨리 닦을수록 멀리 나가는 것처럼 학문을 갈고 닦아 멀리 나가자는 뜻
 
 
-![Logo](images/her.jpg)
+---?image=images/her.jpg&size=auto 100%
 
 ![Video](https://www.youtube.com/embed/buolc1_P4f0)
 
