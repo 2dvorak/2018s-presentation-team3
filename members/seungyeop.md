@@ -1,6 +1,7 @@
 ## 이승엽
 
-멋있거나 웃긴 자신의 자신 넣기( ICE Break )
+![Logo](images/dat_face.jpg)
+
 
 ---
 
