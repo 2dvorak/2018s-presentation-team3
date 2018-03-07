@@ -1,40 +1,51 @@
 ## 오동현 
 
-멋있거나 웃긴 자신의 자신 넣기( ICE Break )
+![Logo](images/donghyeon.jpeg)
 
 ---
 
 닉네임 : zanywhale
 
-![Logo](images/zany.png)
-@fa[plus gp-tip]
-![Logo](images/real_whale.jpeg) |
-
-![Logo](images/whale.png)
+![Logo](images/zany.png) |
+![Logo](images/whale.png) |
 
 ---
 
-연구실 : 아직 미정
+### Brief
 
-관심 분야 : Reversing, Exploit, CTF
-
-남들과는 차별화 된 경력 or 유별난 취미/특기 : PyCON 가위바위보 대회 4위
-
+-연구실 : 아직 미정 |
+-관심 분야 : Reversing, Exploit, CTF |
+-특이 사항 : PyCON 가위바위보 대회 4위 |
 
 ---
 
 ### 개발 환경
 
-Windows / Sublime Text 3 (+SFTP) / Atom / Putty / TMUX
-
-Linux / Qt Creator / vim
-
-Mac / Gramtosh
-
+- Windows : Sublime Text / Putty / TMUX / Atom |
+- Mac : Gramtosh |
 
 ---
 
-### AKA. Gramtosh
+### Windows
+
+<br>
+<div class="left">
+    <img src="https://github.com/KAIST-IS521/2018s-presentation-team3/images/putty.jpg" />
+</div>
+<div class="right">
+    <img src="https://github.com/KAIST-IS521/2018s-presentation-team3/images/putty_setting.jpg" />
+</div>
+
+---
+
+### Windows
+
+- TMUX |
+![Logo](images/tmux.jpg)
+
+---
+
+### Gramtosh
 
 ![Video](https://www.youtube.com/embed/brZ0-EEW0KE)
 
