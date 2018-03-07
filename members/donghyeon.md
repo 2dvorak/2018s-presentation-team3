@@ -26,7 +26,9 @@
 ### 개발 환경
 
 Windows / Sublime Text 3 (+SFTP) / Atom / Putty / TMUX
+
 Linux / Qt Creator / vim
+
 Mac / Gramtosh
 
 
