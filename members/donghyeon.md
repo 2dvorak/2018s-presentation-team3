@@ -6,6 +6,10 @@
 
 닉네임 : zanywhale
 
+![Logo](images/whale.png)
+
+---
+
 연구실 : 아직 미정
 
 관심 분야 : System Hacking, CTF, Fuzzing 
