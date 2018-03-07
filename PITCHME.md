@@ -11,6 +11,7 @@ DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil
 HER의 의미 ???
 
 갈고 닦겠다
+
 ---
 
 ### BODY
