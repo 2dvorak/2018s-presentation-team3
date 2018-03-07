@@ -10,9 +10,10 @@ HER 의미
  - 컬링에서 바닥을 빨리 닦으라는 뜻
  - 빨리 닦을수록 멀리 나가는 것처럼 학문을 갈고 닦아 멀리 나가자는 뜻
 
-(컬링대표팀 헐 사진파일 추가)
 
-(아기 동영상 파일 추가)
+![Logo](images/her.jpg)
+
+![Video](https://www.youtube.com/embed/buolc1_P4f0)
 
 ---
 
