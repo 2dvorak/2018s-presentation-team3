@@ -1,7 +1,5 @@
 ## 정세진
 
-제주도 사진( ICE Break )
-
 ![Logo](images/break.jpg)
 
 ---
@@ -10,7 +8,7 @@
   - s k y : ROK. Air Force
   - shiri : 영화 "쉬리"처럼 국가안보에 기여     
 
-?image=images/shiri.jpg&size=auto 100%
+![Logo](images/shiri.jpg)
 
 연구실 : CySec(Cyber Security Lab, 강병훈 교수)
 
@@ -26,7 +24,7 @@
   - 족구는 공군 스포츠(1966년 11전투비행단에서 유래)
   - 잘하지는 못하지만 그나마..
 
-?image=images/soccer.jpg&size=auto 100%
+![Logo](images/soccer.jpg)
 ---
 
 ### 개발 환경
