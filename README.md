@@ -10,5 +10,5 @@
  - DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil Wi)
 
 ## How to use GitPitch?
- - abc
+ - abcd
 
