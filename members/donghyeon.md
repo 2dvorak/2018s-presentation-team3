@@ -4,7 +4,9 @@
 
 ---
 
-닉네임 : zanywhale
+### 닉네임
+
+zanywhale
 
 ![Logo](images/zany.png) |
 ![Logo](images/whale.png) |
@@ -13,9 +15,11 @@
 
 ### Brief
 
--연구실 : 아직 미정 |
--관심 분야 : Reversing, Exploit, CTF |
--특이 사항 : PyCON 가위바위보 대회 4위 |
+- 연구실 : 차상길 교수님 |
+- 관심 분야 : Reversing, Exploit, CTF |
+- 특이 사항 : PyCON 가위바위보 코딩 대회 4위 |
+![Logo](images/coding.png)
+![Logo](images/lion.png)
 
 ---
 
@@ -28,13 +32,9 @@
 
 ### Windows
 
-<br>
-<div class="left">
-    <img src="https://github.com/KAIST-IS521/2018s-presentation-team3/images/putty.jpg" />
-</div>
-<div class="right">
-    <img src="https://github.com/KAIST-IS521/2018s-presentation-team3/images/putty_setting.jpg" />
-</div>
+- Putty |
+![Logo](images/putty.jpg)
+![Logo](images/putty_setting.jpg)
 
 ---
 
@@ -45,8 +45,22 @@
 
 ---
 
+### Windows
+
+- Sublime Text(+SFTP) |
+![Logo](images/sublime.png)
+
+---
+
 ### Gramtosh
 
 ![Video](https://www.youtube.com/embed/brZ0-EEW0KE)
 
 ---
+
+### 정리
+
+- 분석과 Exploit을 동시에 하려면 윈도우나 맥이 편하다 |
+- 하지만 그램토시는 2% 부족한 맥이라 사용하기 까다롭다 |
+- IDE도 쓰긴쓴다! (Qt creator, Visual Studio) |
+- 하지만 대부분 Script 작성 환경을 가지고 있다 |
