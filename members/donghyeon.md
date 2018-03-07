@@ -33,6 +33,7 @@ zanywhale
 ### Windows
 
 - Putty |
+
 ![Logo](images/putty.jpg)
 ![Logo](images/putty_setting.jpg)
 
