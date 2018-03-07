@@ -2,13 +2,13 @@
 
 제주도 사진( ICE Break )
 
-?image=images/break.jpg&size=auto 100%
+![Logo](images/break.jpg)
 
 ---
 
 닉네임 : skyshiri
-  - s k y : 공군에서 국가안보에 기여
-  - shiri : 영화 "쉬리"처럼 가치있는 삶     
+  - s k y : ROK. Air Force
+  - shiri : 영화 "쉬리"처럼 국가안보에 기여     
 
 ?image=images/shiri.jpg&size=auto 100%
 
