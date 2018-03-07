@@ -24,8 +24,8 @@ Gramtosh
 
 ---
 
-### 개발 환경
+### AKA. Gramtosh
 
-개발 환경에 대한 소개 및 짤막한 동영상! or 사진
+![Video](https://www.youtube.com/embed/brZ0-EEW0KE)
 
 ---
