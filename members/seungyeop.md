@@ -44,7 +44,7 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 
 #### 주 무기 : 노트북
  - Ubuntu 외장 하드 설치
- - 언제 어디서든 외장 하드로 부팅하면 나의 개발 환경이 그대로
+ - 어디서든 외장 하드로 부팅하면 나의 개발 환경이 그대로
  - 퍼포먼스 하락은 함정(나름 쓸만해요)
 
 ---
