@@ -10,8 +10,7 @@
 <div class="left">
 
 ![qwerty](images/qwerty.jpg)
-familiar
-
+familiar  
 less efficient
 
 </div>
@@ -19,12 +18,13 @@ less efficient
 <div class="right">
 
 ![dvorak](images/dvorak.jpg)
-unfamiliar
+unfamiliar  
 efficient
 
 </div>
-
-###### Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
+<div style="vertical-align:bottom;font-size:10px;">
+Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
+</div>
 ---
 
 연구실 : Cysec
