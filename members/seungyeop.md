@@ -22,11 +22,14 @@
 효율적
 
 </div>
-<br>
-<br>
-<br>
 </div>
 <div style="vertical-align:bottom;font-size:10px;text-align:center;">
+&nbsp;&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
 <span style="display:table;margin:auto">Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html</span>
 </div>
 ---
@@ -58,7 +61,7 @@
 ---
 ### 개발 환경
 
-#### 보조무기 : 데스크탑
+#### 보조 무기 : 데스크탑
  - 윈도우
  - Sublime Text
  - 오작동 - 대부분의 리소스를 LOL에 사용
