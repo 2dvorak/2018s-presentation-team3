@@ -52,7 +52,7 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 
 #### 주 무기 : 노트북
  - Unity tweak tool을 사용한 윈도우 snapping(tiling)
-![Logo](images/workspace_resized.png)
+![Logo](images/workspace.png)
 
 ---
 ### 개발 환경
