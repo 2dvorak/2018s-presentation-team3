@@ -19,7 +19,7 @@ MicroSoft사의 PowerPoint 프로그램이 필요한 일반적인 프레젠테�
 
 1. PITCHME.md 만들기
 
-![gp_terminal](./images/gp_terminal.png})  
+![gp_terminal](./images/gp_terminal.png)  
 [출처:https://github.com/gitpitch/gitpitch](https://github.com/gitpitch/gitpitch)
 
 README.md 생성 방법과 동일하게 PITCHME.md를 add, commit, push 해준다.
@@ -27,7 +27,7 @@ README.md 생성 방법과 동일하게 PITCHME.md를 add, commit, push 해준�
 
 2. PITCHME.md 작성하기
 
-![gp_markdown](./images/gp_markdown.png)
+![gp_markdown](./images/gp_markdown.png)  
 (PITCHME.md 작성 예시)
 
 기본적인 작성법은 Markdown 작성법과 동일하기 때문에 누구나 손쉽게 편집이 가능하며, 데이터 타입에 따른 작성법은 아래와 같다.
@@ -62,7 +62,7 @@ PITCHME.yaml 파일이 정상적으로 저장소에 push 되면 GitPitch의 Them
 작성된 PITCHME.md 파일을 Presentation으로 여는 방법은 매우 간단하다.  
 위와 같이 "https://gitpitch.com" URL 뒤에 사용자의 이름/저장소/branch를 붙여주면 손쉽게 Presentation을 열 수 있다.
 
-![gp_presentation4](./images/gp_presentation4.png)
-(최종 Presentation 화)
+![gp_presentation4](./images/gp_presentation4.png)  
+(최종 Presentation 화면)
 
 
