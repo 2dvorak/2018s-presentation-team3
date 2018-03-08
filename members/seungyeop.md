@@ -6,7 +6,7 @@
 ---
 
 닉네임 : 2dvorak
-
+<div>
 <div class="left" style="width:50%;">
 
 ![qwerty](images/qwerty.jpg)
@@ -25,6 +25,7 @@ efficient
 <br>
 <br>
 <br>
+</div>
 <div style="vertical-align:bottom;font-size:10px;" align="center">
 Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 </div>
