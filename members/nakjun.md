@@ -1,6 +1,6 @@
 ## 이름(최낙준)
 
-![test_img](.images/test_img.jpg)
+![test_img](./images/test_img.jpg)
 멋있거나 웃긴 자신의 자신 넣기( ICE Break )
 
 ---
