@@ -1,6 +1,6 @@
 ## 이름(최낙준)
 
-![test_img](./images/test_img.jpg)
+![test_img](../images/test_img.jpg)
 멋있거나 웃긴 자신의 자신 넣기( ICE Break )
 
 ---
@@ -30,10 +30,10 @@ Editor, OS, Setting .....
 
 ### 개발 환경
 
-![test_img](.images/test_img.jpg)
+![test_img](../images/test_img.jpg)
 연구실 내 자리 사진.jpg (옆자리 외국인 from 가나, 뒷자리 외국인 from 인도네시아)
 단점 : 온 사방이 외국인이어서 연구실내에선 묵언수행중
-![test_img](.images/test_img.jpg)
+![test_img](../images/test_img.jpg)
 장점 : N1 건물 9층이어서 뷰가 좋음
 
 개발 환경에 대한 소개 및 짤막한 동영상! or 사진
