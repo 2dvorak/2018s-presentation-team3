@@ -9,17 +9,17 @@
 
 <div class="left">
 
----?image=images/qwerty.jpg&size=50% 50%
- - familiar
- - less efficient
+![qwerty](images/qwerty.jpg)
+familiar
+less efficient
 
 </div>
 
 <div class="right">
 
----?image=images/dvorak.jpg&size=50% 50%
- - unfamiliar
- - efficient
+![dvorak](images/dvorak.jpg)
+unfamiliar
+efficient
 
 </div>
 
