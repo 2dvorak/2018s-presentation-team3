@@ -1,44 +1,45 @@
 ## 정세진
 
-![Logo](images/break.jpg)
+![Logo](images/jeju.jpeg)
 
 ---
 
-닉네임 : skyshiri
-  - s k y : ROK. Air Force
-  - shiri : 영화 "쉬리"처럼 국가안보에 기여     
+### 닉네임
 
-![Logo](images/shiri.jpg)
+skyshiri
 
-연구실 : CySec(Cyber Security Lab, 강병훈 교수)
-
-관심 분야 : 비트코인, 블록체인
+![Logo](images/skyshiri.jpeg)
 
 ---
 
-남들과는 차별화 된 경력 : 문과 출신, 공군 장교
-  - 여기는 공대..힘들다..
-  - 공군 헌병장교..과학수사를 공부하기 위해 왔음
+## Brief
 
-![Video](https://www.youtube.com/embed/FxJAmava00k)
+- 연구실 : Cyber Security Lab, 강병훈 교수님
 
-취미/특기 : 족구
-  - 족구는 공군 스포츠(1966년 11전투비행단에서 유래)
-  - 잘하지는 못하지만 그나마..
+- 관심 분야 : 비트코인 범죄
 
-![Logo](images/soccer.jpg)
+- 특이사항 : 문과 출신, 공군 장교
+
+  (여기는 공대..힘들다.. / 공군 헌병장교..과학수사를 공부하기 위해 왔음)
+
+  (군견중대장 동영상 넣기)
+
 ---
 
-### 개발 환경
+- 취미/특기 : 족구(왼쪽 striker)
 
-Windows, Atom, Python
-  - 모든게 생소하지만 프로그래밍 언어는 Python
-  - Atom 에디터에서 프로그래밍
+![Logo](images/soccer.jpeg)
 
 ---
 
 ### 개발 환경
 
-개발 환경에 대한 소개 및 짤막한 동영상! or 사진..뭘 하지?
+- Windows : 아주 익숙함(리눅스, 미지의 세계)
+
+- 언어 : C언어 조금 알고, 요즘은 Python
+
+- Atom 에디터에서 프로그래밍
+
+![Logo](images/lab.jpeg)
 
 ---
