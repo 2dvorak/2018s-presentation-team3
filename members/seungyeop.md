@@ -50,7 +50,7 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 
 #### Primary Weapon : Laptop
  - Window snapping(tiling) by Unity tweak tool
-![Logo](images/workspace.png)
+![Logo](images/workspace_resized.png)
 
 ---
 ### 개발 환경
