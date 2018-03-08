@@ -9,7 +9,7 @@
 
 <div class="left">
 
-![logo](images/qwerty.jpg)
+---?image=images/qwerty.jpg&size=50% 50%
  - familiar
  - less efficient
 
@@ -17,7 +17,7 @@
 
 <div class="right">
 
-![logo](images/dvorak.jpg)
+---?image=images/dvorak.jpg&size=50% 50%
  - unfamiliar
  - efficient
 
@@ -36,20 +36,20 @@
 
 ### 개발 환경
 
-####Primary Weapon : Laptop
+#### Primary Weapon : Laptop
  - Ubuntu installed in external drive
 
 ---
 ### 개발 환경
 
-####Primary Weapon : Laptop
+#### Primary Weapon : Laptop
  - Window snapping(tiling) by Unity tweak tool
-![Logo](images/workspace.jpg)
+![Logo](images/workspace.png)
 
 ---
 ### 개발 환경
 
-####Secondary Weapon : Desktop
+#### Secondary Weapon : Desktop
  - Windows
  - Sublime Text
  - Malfunctioned - Mostly spending its resources for LOL, Discarded
@@ -57,6 +57,6 @@
 ---
 ### 개발 환경
 
-####When using both - Synergy
+#### When using both - Synergy
 
 ---
