@@ -46,6 +46,7 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
  - Ubuntu 외장 하드 설치
  - 어디서든 외장 하드로 부팅하면 나의 개발 환경이 그대로
  - 퍼포먼스 하락은 함정(나름 쓸만해요)
+![Logo](images/laptop.png)
 
 ---
 ### 개발 환경
@@ -65,7 +66,7 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 ---
 ### 개발 환경
 
-#### 둘다 쓸때 - Synergy
+#### 둘 다 쓸때 - Synergy
 ![Logo](images/synergy.png)
 하나의 키보드로 여러 컴퓨터를!
 <div style="font-size:10px;">
