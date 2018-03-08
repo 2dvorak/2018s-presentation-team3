@@ -27,7 +27,7 @@
 <br>
 </div>
 <div style="vertical-align:bottom;font-size:10px;text-align:center;" align="center">
-Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
+<span align="center">Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html</span>
 </div>
 ---
 
