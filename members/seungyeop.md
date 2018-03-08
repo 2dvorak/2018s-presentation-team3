@@ -10,16 +10,16 @@
 <div class="left" style="width:50%;">
 
 ![qwerty](images/qwerty.jpg)
-familiar  
-less efficient
+익숙하다  
+덜 효율적
 
 </div>
 
 <div class="right" style="width:50%;">
 
 ![dvorak](images/dvorak.jpg)
-unfamiliar  
-efficient
+익숙하지 않다  
+효율적
 
 </div>
 <br>
@@ -35,34 +35,38 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 
 관심 분야 : System, Kernel, TEE
 
-특이사항 : 
+특이사항 : 전자과(무늬만)
 
 
 ---
 
 ### 개발 환경
 
-#### Primary Weapon : Laptop
- - Ubuntu installed in external drive
+#### 주 무기 : 노트북
+ - Ubuntu 외장 하드 설치
+ - 언제 어디서든 외장 하드로 부팅하면 나의 개발 환경이 그대로
+ - 퍼포먼스 하락은 함정(나름 쓸만해요)
 
 ---
 ### 개발 환경
 
-#### Primary Weapon : Laptop
- - Window snapping(tiling) by Unity tweak tool
+#### 주 무기 : 노트북
+ - Unity tweak tool을 사용한 윈도우 snapping(tiling)
 ![Logo](images/workspace_resized.png)
 
 ---
 ### 개발 환경
 
-#### Secondary Weapon : Desktop
- - Windows
+#### 보조무기 : 데스크탑
+ - 윈도우
  - Sublime Text
- - Malfunctioned - Mostly spending its resources for LOL, Discarded
+ - 오작동 - 대부분의 리소스를 LOL에 사용
 
 ---
 ### 개발 환경
 
-#### When using both - Synergy
+#### 둘다 쓸때 - Synergy
+![Logo](images/synergy.png)
+하나의 키보드로 여러 컴퓨터를!
 
 ---
