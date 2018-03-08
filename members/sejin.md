@@ -1,6 +1,6 @@
 ## 정세진
 
-![Logo](images/jeju.jpeg)
+![Logo](images/break.jpg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 skyshiri
 
-![Logo](images/skyshiri.jpeg)
+![Logo](images/skyshiri.jpg)
 
 ---
 
@@ -16,19 +16,17 @@ skyshiri
 
 - 연구실 : Cyber Security Lab, 강병훈 교수님
 
-- 관심 분야 : 비트코인 범죄
+- 관심 분야 : 비트코인, 블록체인
 
 - 특이사항 : 문과 출신, 공군 장교
 
-  (여기는 공대..힘들다.. / 공군 헌병장교..과학수사를 공부하기 위해 왔음)
-
-  (군견중대장 동영상 넣기)
+![Video](https://www.youtube.com/embed/FxJAmava00k)
 
 ---
 
 - 취미/특기 : 족구(왼쪽 striker)
 
-![Logo](images/soccer.jpeg)
+![Logo](images/soccer.jpg)
 
 ---
 
@@ -40,6 +38,6 @@ skyshiri
 
 - Atom 에디터에서 프로그래밍
 
-![Logo](images/lab.jpeg)
+![Logo](images/lab.jpg)
 
 ---
