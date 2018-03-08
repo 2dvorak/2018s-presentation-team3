@@ -24,6 +24,7 @@ efficient
 
 </div>
 
+###### Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 ---
 
 연구실 : Cysec
