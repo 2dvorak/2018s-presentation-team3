@@ -4,18 +4,18 @@ DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil
 
 ---
 
-### TEAM INTRODUCTION
+### HER 의미
 
-HER 의미
- - 컬링에서 바닥을 빨리 닦으라는 뜻
- - 빨리 닦을수록 멀리 나가는 것처럼 학문을 갈고 닦아 멀리 나가자는 뜻
+- 컬링에서 바닥을 빨리 닦으라는 뜻
+
+- 빨리 닦을수록 멀리 나가는 것처럼 학문을 갈고 닦아 멀리 나가자는 뜻
 
 
-![Logo](images/her.jpg)
+![Video](https://www.youtube.com/embed/v5TWdg_MSjw)
 
 ---
 
-Baby Sweep
+### Baby Sweep
 
 ![Video](https://www.youtube.com/embed/buolc1_P4f0)
 
