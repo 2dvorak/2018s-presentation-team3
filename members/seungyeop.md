@@ -68,5 +68,8 @@ Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 #### 둘다 쓸때 - Synergy
 ![Logo](images/synergy.png)
 하나의 키보드로 여러 컴퓨터를!
+<div style="font-size:10px;">
+Image from : https://symless.com/synergy
+</div>
 
 ---
