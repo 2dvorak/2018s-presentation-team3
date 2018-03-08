@@ -14,17 +14,17 @@
 ```
 MicroSoft사의 PowerPoint 프로그램이 필요한 일반적인 프레젠테이션과는 달리,  
 그 어떤 다운로드나 설치 없이 오로지 Markdown의 text edit만으로 멋진 슬라이드쇼를 만들수 있는 서비스
-```
-
-
+```  
+  
+  
 1. PITCHME.md 만들기
 
 ![gp_terminal](./images/gp_terminal.png)  
 [출처:https://github.com/gitpitch/gitpitch](https://github.com/gitpitch/gitpitch)
 
-README.md 생성 방법과 동일하게 PITCHME.md를 add, commit, push 해준다.
+README.md 생성 방법과 동일하게 PITCHME.md를 add, commit, push 해준다.  
 
-
+  
 2. PITCHME.md 작성하기
 
 ![gp_markdown](./images/gp_markdown.png)  
@@ -36,7 +36,7 @@ README.md 생성 방법과 동일하게 PITCHME.md를 add, commit, push 해준�
  - [Code](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)와 [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 슬라이드
  - [Image](https://github.com/gitpitch/gitpitch/wiki/Image-Slides)와 [Video](https://github.com/gitpitch/gitpitch/wiki/Video-Slides) 슬라이드
  - [Math Notation](https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Slides)과 [Chart](https://github.com/gitpitch/gitpitch/wiki/Chart-Slides) 슬라이드
- - [Fragment](https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides) 슬라이드
+ - [Fragment](https://github.com/gitpitch/gitpitch/wiki/Fragment-Slides) 슬라이드  
 
 
 3. GitPitch Layout 정하기
@@ -52,9 +52,9 @@ Theme을 따로 설정하기 위해선 먼저 PITCHME.yaml 파일을 생성해 �
 ![gp_moon](./images/gp_moon.png)
 
 PITCHME.yaml 파일이 정상적으로 저장소에 push 되면 GitPitch의 Theme 설정이 끝난다.  
-기본적으로 제공되는 Theme 대신 사용자정의 Theme을 설정하기 위해선 [여기](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)를 참고하면 된다.
+기본적으로 제공되는 Theme 대신 사용자정의 Theme을 설정하기 위해선 [여기](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)를 참고하면 된다.  
 
-
+  
 4. GitPitch Presentation 열기
 
 ![gp-url](./images/gp-url.jpg)
