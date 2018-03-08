@@ -7,7 +7,7 @@
 
 닉네임 : 2dvorak
 
-<div class="left">
+<div class="left" style="width:50%;">
 
 ![qwerty](images/qwerty.jpg)
 familiar  
@@ -15,14 +15,17 @@ less efficient
 
 </div>
 
-<div class="right">
+<div class="right" style="width:50%;">
 
 ![dvorak](images/dvorak.jpg)
 unfamiliar  
 efficient
 
 </div>
-<div style="vertical-align:bottom;font-size:10px;">
+<br>
+<br>
+<br>
+<div style="vertical-align:bottom;font-size:20px;">
 Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html
 </div>
 ---
