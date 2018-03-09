@@ -19,15 +19,17 @@
  
  - 특이사항 : 당구 경로 예상 프로그램 제작 경험  
  ![프로그램 사진]()
+ 
 ---
 ### Brief (2/2)
  - 취미/특기 : 큰 공 No! 작은 공 Yes!  
- Hate ![NJ-hate](images/NJ-hate.png)
- Love ![NJ-love](images/NJ-love.png)
+![NJ-hate](images/NJ-hate.png)  
+![NJ-love](images/NJ-love.png)
 
-학부시절 탁구 대회 우승.  
+학부 탁구 대회 우승
 But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
 ![NJ_contest](images/NJ_contest.png)
+
 ---
 
 ### 개발 환경
