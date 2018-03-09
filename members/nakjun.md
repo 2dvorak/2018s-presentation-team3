@@ -1,6 +1,6 @@
 ## 이름(최낙준)
 
-![Me](../images/Me.png)  
+![Me](images/Me.png)  
 대만 가는 비행기 안에서...
 
 ---
@@ -27,11 +27,11 @@
 
 ### 개발 환경
 
-![my_seat](../images/my_seat.png)  
+![my_seat](images/my_seat.png)  
 (왼쪽 Edwin from 가나, 뒤쪽 Aminanto from 인도네시아, 오른쪽 창문)  
  - 단점 : 온 사방이 외국인이어서 연구실내에선 묵언수행, 의자가 매우 편안하여 잠이 잘 옴
 
-![Lab_view](../images/Lab_view.jpg)   
+![Lab_view](images/Lab_view.jpg)   
  - 장점 : N1 건물 9층. 환상적인 View 제공....
 
 ---
