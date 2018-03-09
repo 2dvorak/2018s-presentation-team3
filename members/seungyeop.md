@@ -6,33 +6,6 @@
 ---
 
 닉네임 : 2dvorak
-<div>
-<div class="left" style="width:50%;">
-
-![qwerty](images/qwerty.jpg)
-익숙하다  
-덜 효율적
-
-</div>
-
-<div class="right" style="width:50%;">
-
-![dvorak](images/dvorak.jpg)
-익숙하지 않다  
-효율적
-
-</div>
-</div>
-<div style="vertical-align:bottom;font-size:10px;text-align:center;">
-&nbsp;&nbsp;
-<br>
-<br>
-<br>
-<br>
-<br>
-<span style="display:table;margin:auto">Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html</span>
-</div>
----
 
 연구실 : Cysec
 
@@ -47,7 +20,7 @@
 
 #### 주 무기 : 노트북
  - Ubuntu 외장 하드 설치
- - 어디서든 외장 하드로 부팅하면 나의 개발 환경이 그대로
+ - 어디서든 외장 하드로 부팅하면 작업 환경이 그대로
  - 퍼포먼스 하락은 함정(나름 쓸만해요)
 ![Logo](images/laptop.png)
 
