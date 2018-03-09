@@ -7,8 +7,8 @@
 ### 닉네임
  cnj8160
  
-![NJ_name](images/NJ_name.png)
-![NJ_number](images/NJ_number.png)
+![NJ_name](images/NJ_name.png){: width="50%" height="50%"}
+![NJ_number](images/NJ_number.png){: width="50%" height="50%"}
 
 ---
 
