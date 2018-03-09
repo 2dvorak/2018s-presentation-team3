@@ -7,8 +7,8 @@
 ### 닉네임
  cnj8160
  
-![NJ_name](images/NJ_name.png){: width="50%" height="50%"}
-![NJ_number](images/NJ_number.png){: width="50%" height="50%"}
+![NJ_name](images/NJ_name.png)
+![NJ_number](images/NJ_number.png)
 
 ---
 
@@ -25,6 +25,8 @@
  - 취미/특기 : 큰 공 No! 작은 공 Yes!  
 ![NJ-hate](images/NJ-hate.png)  
 ![NJ-love](images/NJ-love.png)
+
+---
 
 학부 탁구 대회 우승
 But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
@@ -45,6 +47,9 @@ But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
 ![my_seat](images/my_seat.png)  
 (왼쪽 Edwin from 가나, 뒤쪽 Aminanto from 인도네시아, 오른쪽 창문)  
  - 단점 : 온 사방이 외국인이어서 연구실내에선 묵언수행, 의자가 매우 편안하여 잠이 잘 옴
+
+---
+### 개발 환경
 
 ![Lab_view](images/Lab_view.jpg)   
  - 장점 : N1 건물 9층. 환상적인 View 제공....
