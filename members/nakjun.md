@@ -6,8 +6,10 @@
 ---
 
 ### 닉네임
- cnj8160 (이름 약자 + 휴대폰 번호)
-
+ cnj8160
+ 
+![NJ_name](images/NJ_name.png)  
+![NJ_number](images/NJ_number.png)
 
 ---
 
