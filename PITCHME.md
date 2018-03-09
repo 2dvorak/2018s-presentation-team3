@@ -28,8 +28,6 @@ DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil
 
 ### CONCLUDING REMARK
 
-Baby Sweeping
-
-![Video](https://www.youtube.com/embed/buolc1_P4f0)
-
----
+Try to make a good final impression here. You should try to make people want to
+know more about you. Each team can spend at most 1 min. for both introduction
+and conclusion slide.
