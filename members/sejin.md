@@ -12,7 +12,7 @@ skyshiri
 
 ---
 
-## Brief
+### Brief
 
 - 연구실 : Cyber Security Lab, 강병훈 교수님
 
