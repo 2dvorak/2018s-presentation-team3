@@ -21,13 +21,13 @@
  ![프로그램 사진]()
 ---
 ### Brief (2/2)
- - 취미/특기 : 큰 공 X and 작은 공 O
+ - 취미/특기 : 큰 공 No! 작은 공 Yes!  
  Hate ![NJ-hate](images/NJ-hate.png)
  Love ![NJ-love](images/NJ-love.png)
- 
-탁구 : 학부시절 대회 우승. But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
-상품은 문화상품권 10,000원 권 한 장
 
+학부시절 탁구 대회 우승.  
+But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
+![NJ_contest](images/NJ_contest.png)
 ---
 
 ### 개발 환경
