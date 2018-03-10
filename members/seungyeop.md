@@ -34,7 +34,7 @@
 - 관심 분야 : System, Kernel, TEE
 - 특이사항 : 전자과(무늬만)
 <div class="left" style="width:50%;">
-![pspice](images/pspice.jpg)
+![pspice](images/pspice.png)
 </div>
 <div class="right" style="width:50%;">
 ![circuit](images/circuit.jpg)
