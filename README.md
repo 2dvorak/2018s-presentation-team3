@@ -37,6 +37,10 @@
 >> [__seungyeop.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/seungyeop.md)
 
 
+## Insight
+
+![insight](./images/insight.png)
+
 ## Presentation
 
  - [https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/master](https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/master)
