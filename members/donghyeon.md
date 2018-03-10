@@ -32,6 +32,13 @@ zanywhale
 
 ### Windows
 
+- Sublime Text(+SFTP)
+![Logo](images/sublime.png)
+
+---
+
+### Windows
+
 - Putty
 
 ![Logo](images/putty.jpg)
@@ -44,12 +51,7 @@ zanywhale
 - TMUX
 ![Logo](images/tmux.jpg)
 
----
-
-### Windows
-
-- Sublime Text(+SFTP)
-![Logo](images/sublime.png)
+https://github.com/gpakosz/.tmux
 
 ---
 
@@ -61,6 +63,6 @@ zanywhale
 
 ### 정리
 
-- 대부분 Script 작성 환경을 가지고 있다
-- IDE도 쓰긴쓴다! (Qt creator, Visual Studio)
+- 대부분 Script 작성 환경을 가지고 있음
+- IDE도 사용하긴 함(Qt creator, Visual Studio)
 
