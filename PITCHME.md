@@ -32,8 +32,6 @@
 
 ---
 
-### CONCLUDING REMARK
-
-Try to make a good final impression here. You should try to make people want to
-know more about you. Each team can spend at most 1 min. for both introduction
-and conclusion slide.
+### "HER, 대박"
+#### 2 + 2 > 4
+![TEAM_PICTURE](images/team_picture.jpg)
