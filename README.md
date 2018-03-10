@@ -38,32 +38,21 @@
 
 
 
-> PITCHME.md
-
-> PITCHME.yaml
-
+> PITCHME.md  
+> PITCHME.yaml  
 > PITCHUSAGE.md
-
-> README.md
-
+> README.md  
 > assets
 
->> css
-
+>> css  
 >> image
 
-> images
-
-> members
-
->> donghyeon.md
-
->> format.md
-
->> nakjun.md
-
->> sejin.md
-
+> images  
+> members  
+>> donghyeon.md  
+>> format.md  
+>> nakjun.md  
+>> sejin.md  
 >> seungyeop.md
 
 ## Presentation
