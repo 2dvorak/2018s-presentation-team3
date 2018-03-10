@@ -48,4 +48,3 @@
 Image from : https://symless.com/synergy
 </div>
 
----
