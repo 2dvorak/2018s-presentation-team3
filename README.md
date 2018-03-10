@@ -20,7 +20,7 @@
 
 ## Directory structure
 
-```
+
 |-- PITCHME.md
 |-- PITCHME.yaml
 |-- PITCHUSAGE.md
@@ -35,9 +35,9 @@
 |-- nakjun.md
 |-- sejin.md
 `-- seungyeop.md
-```
 
-```
+
+
 > PITCHME.md
 > PITCHME.yaml
 > PITCHUSAGE.md
@@ -52,7 +52,7 @@
 >> nakjun.md
 >> sejin.md
 >> seungyeop.md
-```
+
 
 ## Presentation
 
