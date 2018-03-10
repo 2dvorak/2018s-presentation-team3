@@ -23,7 +23,7 @@ zanywhale
 
 ---
 
-### 물리적 개발환경
+#### 물리적 개발환경
 
 ![Logo](images/lion_ryan.png)
 
