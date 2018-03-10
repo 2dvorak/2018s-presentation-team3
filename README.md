@@ -20,21 +20,21 @@
 
 ## Directory structure
 
-> PITCHME.md *최종 Presentation 파일*  
-> PITCHME.yaml *템플릿 설정*  
-> PITCHUSAGE.md *GitPitch 작성법 설명*  
-> README.md *팀 소개 및 기타 내용*  
-> assets
->> css *템플릿 설정*  
->> image *템플릿 설정을 위한 이미지*  
+> __PITCHME.md__ * *최종 Presentation 파일* *  
+> __PITCHME.yaml__ * *템플릿 설정* *  
+> __PITCHUSAGE.md__ * *GitPitch 작성법 설명* *  
+> __README.md__ * *팀 소개 및 기타 내용* *  
+> __assets__
+>> __css__ * *템플릿 설정* *  
+>> __image__ * *템플릿 설정을 위한 이미지* *  
 >  
-> images *개인별 발표를 위한 이미지*  
-> members *개인별 Presentation 파일*  
->> donghyeon.md  
->> format.md *발표 양식*  
->> nakjun.md  
->> sejin.md  
->> seungyeop.md
+> __images__ * *개인별 발표를 위한 이미지* *  
+> __members__ * *개인별 Presentation 파일* *  
+>> __donghyeon.md__  
+>> __format.md__ * *발표 양식* *  
+>> __nakjun.md__  
+>> __sejin.md__  
+>> __seungyeop.md__
 
 
 ## Presentation
