@@ -63,6 +63,6 @@ https://github.com/gpakosz/.tmux
 
 ### 정리
 
-- 대부분 Script 작성 환경을 가지고 있다
-- IDE도 쓰긴쓴다! (Qt creator, Visual Studio)
+- 대부분 Script 작성 환경을 가지고 있음
+- IDE도 사용하긴 함(Qt creator, Visual Studio)
 
