@@ -40,13 +40,11 @@
 
 > PITCHME.md  
 > PITCHME.yaml  
-> PITCHUSAGE.md
+> PITCHUSAGE.md  
 > README.md  
 > assets
-
 >> css  
->> image
-
+>> image  
 > images  
 > members  
 >> donghyeon.md  
@@ -55,6 +53,21 @@
 >> sejin.md  
 >> seungyeop.md
 
+> PITCHME.md  
+> PITCHME.yaml  
+> PITCHUSAGE.md  
+> README.md  
+> assets
+>> css  
+>> image  
+
+> images  
+> members  
+>> donghyeon.md  
+>> format.md  
+>> nakjun.md  
+>> sejin.md  
+>> seungyeop.md
 ## Presentation
 
  - [https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/master](https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/master)
