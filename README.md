@@ -10,13 +10,13 @@
 
 ## Team member
 
-| Team member     |  |
+| Team member     | Position |
 |-----------------|------|
 |  Seongil Wi     |  TA  |
-|  DongHyeon Oh   | 팀장 |
-|  SeungYeop Lee  | 팀원 |
-|  NakJun Choi    | 팀원 |
-|  SeJin Jeong    | 팀원 |
+|  DongHyeon Oh   | 팀장 | 제작총괄, css 적용, 발표 포맷 정리 |
+|  SeungYeop Lee  | 팀원 | Conclusion 작성|
+|  NakJun Choi    | 팀원 | README, PITCHUSAGE 작성 |
+|  SeJin Jeong    | 팀원 | Introduction 작성 |
 
 ## Directory structure
 
@@ -36,6 +36,14 @@
 >> __sejin.md__  
 >> __seungyeop.md__
 
+
+## Assignment
+
+|  DongHyeon Oh   | css 적용, Git merge & resolve conflict, 발표 포맷 작성 |
+|  SeungYeop Lee  | Conclusion, 발표 포맷 작성 |
+|  NakJun Choi    | README, PITCHUSAGE 작성 |
+|  SeJin Jeong    | Introduction 작성 |
+|      공통       | 개인별 발표자료 준비, Typo & 문법 확인, Offline 모임 |
 
 ## Presentation
 
