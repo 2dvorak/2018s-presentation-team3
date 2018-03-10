@@ -15,7 +15,7 @@
 ### Brief (1/2)
  - 연구실 : C&IS LAB (김광조 교수님)
 
- - 관심 분야 : PQC(Post Quantum Cryptography), 블록체인
+ - 관심 분야 : Post Quantum Cryptography, 블록체인
  
  - 특이사항 : 당구 경로 예상 프로그램 제작 경험  
  ![프로그램 사진]()
@@ -54,4 +54,3 @@ But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)  
 ![Lab_view](images/Lab_view.jpg)   
  - 장점 : N1 건물 9층. 환상적인 View 제공....
 
----
