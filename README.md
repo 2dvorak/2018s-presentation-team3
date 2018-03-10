@@ -22,24 +22,18 @@
 
 ```
 1. Introduction
-
 2. Members
-
-  2.1 DongHyeon Oh
-    2.1.1 이름 및 사진
-    2.1.2 닉네임
-    2.1.3 Brief
-    2.1.4 개발환경 
-
-  2.2 SeungYeop Lee 
-    - (2.1과 동일)
-
-  2.3 NakJun Choi
-    - (2.1과 동일)
-
-  2.4 SeJin Jeong
-    - (2.1과 동일)
-
+   2.1 DongHyeon Oh
+      2.1.1 이름 및 사진
+      2.1.2 닉네임
+      2.1.3 Brief
+      2.1.4 개발환경 
+   2.2 SeungYeop Lee 
+      - (2.1과 동일)
+   2.3 NakJun Choi
+      - (2.1과 동일)
+   2.4 SeJin Jeong
+      - (2.1과 동일)
 3. Conclusion
 ```
 ## Directory structure
