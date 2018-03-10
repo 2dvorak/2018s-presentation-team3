@@ -20,25 +20,27 @@
 
 ## Directory structure
 
-> __PITCHME.md__ * *최종 Presentation 파일* *  
-> __PITCHME.yaml__ * *템플릿 설정* *  
-> __PITCHUSAGE.md__ * *GitPitch 작성법 설명* *  
-> __README.md__ * *팀 소개 및 기타 내용* *  
-> __assets__
->> __css__ * *템플릿 설정* *  
->> __image__ * *템플릿 설정을 위한 이미지* *  
+> [__PITCHME.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/PITCHME.md) * *최종 Presentation 파일* *  
+> [__PITCHME.yaml__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/PITCHME.yaml) * *템플릿 설정* *  
+> [__PITCHUSAGE.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/PITCHUSAGE.md) * *GitPitch 작성법 설명* *  
+> [__README.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/README.md) * *팀 소개 및 기타 내용* *  
+> [__assets__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/master/assets)
+>> [__css__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/master/assets/css) * *템플릿 설정* *  
+>> [__image__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/master/assets/image) * *템플릿 설정을 위한 이미지* *  
 >  
-> __images__ * *개인별 발표를 위한 이미지* *  
-> __members__ * *개인별 Presentation 파일* *  
->> __donghyeon.md__  
->> __format.md__ * *발표 양식* *  
->> __nakjun.md__  
->> __sejin.md__  
->> __seungyeop.md__
+> [__images__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/master/images) * *개인별 발표를 위한 이미지* *  
+> [__members__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/master/members) * *개인별 Presentation 파일* *  
+>> [__donghyeon.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/donghyeon.md)  
+>> [__format.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/format.md) * *발표 양식* *  
+>> [__nakjun.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/nakjun.md)  
+>> [__sejin.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/sejin.md)  
+>> [__seungyeop.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/seungyeop.md)
 
 
 ## Assignment
 
+| Team member     | Assignment |
+|-----------------|------|
 |  DongHyeon Oh   | css 적용, Git merge & resolve conflict, 발표 포맷 작성 |
 |  SeungYeop Lee  | Conclusion, 발표 포맷 작성 |
 |  NakJun Choi    | README, PITCHUSAGE 작성 |
