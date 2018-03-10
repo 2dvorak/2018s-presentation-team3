@@ -40,7 +40,7 @@
 ## Insight
 
 ![insight](./images/insight.png)  
-3월 10일 기준, insight-network
+*3월 10일 기준, insight-network
 
 ## Presentation
 
