@@ -32,6 +32,13 @@ zanywhale
 
 ### Windows
 
+- Sublime Text(+SFTP)
+![Logo](images/sublime.png)
+
+---
+
+### Windows
+
 - Putty
 
 ![Logo](images/putty.jpg)
@@ -44,12 +51,7 @@ zanywhale
 - TMUX
 ![Logo](images/tmux.jpg)
 
----
-
-### Windows
-
-- Sublime Text(+SFTP)
-![Logo](images/sublime.png)
+https://github.com/gpakosz/.tmux
 
 ---
 
