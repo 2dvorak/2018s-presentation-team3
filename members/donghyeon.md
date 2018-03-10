@@ -23,6 +23,12 @@ zanywhale
 
 ---
 
+### 물리적 개발환경
+
+![Logo](images/lion_ryan.jpg)
+
+---
+
 ### 개발 환경
 
 - Windows : Sublime Text / Putty / TMUX / Atom
