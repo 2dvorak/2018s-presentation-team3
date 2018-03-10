@@ -1,6 +1,10 @@
 # HER
 
-DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil Wi)
+- TA : Seongil Wi
+- DongHyeon Oh(Team Leader)
+- SeungYeop Lee
+- NakJun Choi
+- SeJin Jeong
 
 ---
 
