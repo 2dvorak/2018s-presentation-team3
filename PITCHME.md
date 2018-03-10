@@ -27,7 +27,5 @@ DongHyeon Oh(Team Leader), SeungYeop Lee ,NakJun Choi, SeJin Jeong (TA : Seongil
 ---
 
 ### "HER, 대박"
-<br>
-<br>
-# 2 + 2 = ?
+#### 2 + 2 = ?
 ![TEAM_PICTURE](images/team_picture.jpg)
