@@ -40,4 +40,3 @@ skyshiri
 
 ![Logo](images/lab.jpg)
 
----
