@@ -23,6 +23,12 @@ zanywhale
 
 ---
 
+#### 물리적 개발환경
+
+![Logo](images/lion_ryan.png)
+
+---
+
 ### 개발 환경
 
 - Windows : Sublime Text / Putty / TMUX / Atom
@@ -39,8 +45,7 @@ zanywhale
 
 ### Windows
 
-- Putty
-
+- Putty(+Custom PuTTY Color Themes)
 ![Logo](images/putty.jpg)
 ![Logo](images/putty_setting.jpg)
 
@@ -48,7 +53,7 @@ zanywhale
 
 ### Windows
 
-- TMUX
+- TMUX(+Custom configuration)
 ![Logo](images/tmux.jpg)
 
 https://github.com/gpakosz/.tmux
