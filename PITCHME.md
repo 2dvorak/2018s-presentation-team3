@@ -20,7 +20,7 @@
 
 ---
 
-### Intoduce
+### Introduction
 
 ---?include=members/donghyeon.md
 
