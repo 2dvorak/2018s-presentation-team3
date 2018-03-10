@@ -33,6 +33,7 @@
 - 연구실 : CySec
 - 관심 분야 : System, Kernel, TEE
 - 특이사항 : 전자과(무늬만)
+
 <div class="left" style="width:50%;">
 ![pspice](images/pspice.png)
 </div>
