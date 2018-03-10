@@ -11,7 +11,7 @@
 ## Team member
 
 | Team member     | Position | Assignment |
-|-----------------|----------|------------|
+|:-----------------:|:----------:|------------|
 |  Seongil Wi     |    TA    |   Advice   |
 |  DongHyeon Oh   |   팀장   | css 적용, 발표 포맷 작성, Git merge & resolve conflict, Typo & 문법 확인|
 |  SeungYeop Lee  |   팀원   | Conclusion & 발표 포맷 작성, Typo & 문법 확인|
@@ -36,16 +36,6 @@
 >> [__sejin.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/sejin.md)  
 >> [__seungyeop.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/members/seungyeop.md)
 
-
-## Assignment
-
-| Team member     | Assignment |
-|-----------------|------|
-|  DongHyeon Oh   | css 적용, Git merge & resolve conflict, 발표 포맷 작성 |
-|  SeungYeop Lee  | Conclusion, 발표 포맷 작성 |
-|  NakJun Choi    | README, PITCHUSAGE 작성 |
-|  SeJin Jeong    | Introduction 작성 |
-|      공통       | 개인별 발표자료 준비, Typo & 문법 확인, Offline 모임 |
 
 ## Presentation
 
