@@ -45,8 +45,7 @@ zanywhale
 
 ### Windows
 
-- Putty
-
+- Putty(+Custom PuTTY Color Themes)
 ![Logo](images/putty.jpg)
 ![Logo](images/putty_setting.jpg)
 
@@ -54,7 +53,7 @@ zanywhale
 
 ### Windows
 
-- TMUX
+- TMUX(+Custom configuration)
 ![Logo](images/tmux.jpg)
 
 https://github.com/gpakosz/.tmux
