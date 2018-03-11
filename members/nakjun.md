@@ -2,7 +2,7 @@
 
 ![Me](images/Me.png)
 
-Note :
+Note:
 Let's start my presentation.
 As you can see, my father is very handsome.
 So...i think, that's why i'm handsome :)
@@ -21,7 +21,7 @@ I'm very sad...
 ![NJ_name](images/NJ_name.png)
 ![NJ_number](images/NJ_number.png)
 
-Note :
+Note:
 This is my nickname
 In fact, there is no special meaning here.
 I just combined my mobile phone number with my name.
@@ -34,7 +34,7 @@ I just combined my mobile phone number with my name.
  - 특이사항 : 당구 경로 예상 프로그램 제작 경험|
 ![NJ_project1](images/NJ_project1.jpg)
 
-Note :
+Note:
 I'm Professor Kim's C&IS lab student.
 So I am interested in PQC and block chains.
 Two years ago, I was very proud to have created a C++ based pocketball help program.
@@ -49,7 +49,7 @@ But frankly, the performance of this program was not good.
 But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)
 ![NJ_contest](images/NJ_contest.png)
 
-Note : 
+Note: 
 And this is my hobby.
 I do not like big balls, but I like small balls. (like table tennis...)
 In fact, I have won a very very small class competition.
@@ -62,7 +62,7 @@ And let's enjoy together.
  - 2주전에 구매한 Hot한 Laptop 및 연구실 Desktop
 ![NJ_laptop](images/NJ_laptop.jpg)
 
-Note :
+Note:
 Now my development environment.
 I bought a new laptop two weeks ago for only this class.
 It's very hot and i will use this laptop for my development.
@@ -72,7 +72,7 @@ It's very hot and i will use this laptop for my development.
  - OS : Window & Linux(Ubuntu)
 ![NJ_friend](images/NJ_friend.png)
 
-Note :
+Note:
 Primarily, I prefer c or c++.
 Because I do not know other programming languages.
 So I'm going to study about Python later.
@@ -86,7 +86,7 @@ I will do my best.
  - 단점 : 연구실내 묵언수행, 편한 의자 = Deep Sleep
 ![my_seat](images/my_seat.png)
 
-Note :
+Note:
 This is my seat in the lab.
 There is nothing special, but there are some disadvantages.
 First, my left is Edwin from Gana, the back is Amananto from Indonesia, and the right is a window, so I can not say anything in the lab.
@@ -99,7 +99,7 @@ Deep sleep!
  - 장점 : N1 건물 9층. 환상적인 View 제공
 ![Lab_view](images/Lab_view.jpg)
 
-Note :
+Note:
 But Look at this.
 This place provides a fantastic view.
 there is one advantage.
