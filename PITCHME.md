@@ -39,5 +39,3 @@
 Note:
 Our team have two people who are good at computers and two people who are not familiar with computer programmings.
 We will be a stronger team by the end of this semester. It will make our team Her and “대박”
-
----
