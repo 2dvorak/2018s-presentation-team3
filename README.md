@@ -12,7 +12,7 @@
 
 | Team member     | Position | Assignment |
 |:-----------------:|:----------:|------------|
-|  Seongil Wi     |    TA    |   Advice   |
+|  SeongIl Wi     |    TA    |   Advice   |
 |  DongHyeon Oh   |   팀장   | css 적용, 발표 포맷 작성, Git merge & resolve conflict, Typo & 문법 확인|
 |  SeungYeop Lee  |   팀원   | Conclusion & 발표 포맷 작성, Typo & 문법 확인|
 |  NakJun Choi    |   팀원   | README & PITCHUSAGE 작성, Typo & 문법 확인 |
