@@ -17,7 +17,13 @@ skyshiri
 
 ![Logo](images/skyshiri.jpg)
 
-image from : http://www.airforce.mil.kr, http://oldconan.tistory.com
+<div>
+<div style="vertical-align:bottom;font-size:15px;text-align:center;">
+&nbsp;&nbsp;
+<br>
+<span style="display:table;margin:auto">Image from : http://www.airforce.mil.kr, http://oldconan.tistory.com</span>
+</div>
+
 
 Note:
 My nickname is skyshiri.s
