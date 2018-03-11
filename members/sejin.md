@@ -92,3 +92,4 @@ Last year, I took professor 광조 김‘s introductionory cryptography class.
 that student will earn extra point when evaluating grades.
 So I and two younger army officers went to 지리산 mountain during the final exam period.
 And then, I was sick for a week because of hard climbing.
+
