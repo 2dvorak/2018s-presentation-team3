@@ -74,7 +74,7 @@ Note:
 I am very familiar with Windows OS, but Linux is still unknown world.
 I know a little bit about c language, and nowadays I mainly use Python.
 In my lab, 14 people are there, but the lab is not a big space, so it’s not good environment to concentrate on research.
-But good place to be helped. It's a perfect lab for students who are not familiar with computer like me.
+But good place to be helped.
 In my desk, there are dual monitors. the monitor on the left shows a photo that has a sad story hidden.
 Last year, I took professor 광조 김‘s introductionory cryptography class.
 광조 김 suggested that if any student who goes to the top of 지리산 mountain,
