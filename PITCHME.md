@@ -42,5 +42,6 @@ Video from : https://www.youtube.com/watch?v=O6-ioz8vD7U
 
 Note:
 Our team have two people who are good at computers and two people who are not familiar with computer programmings.
-We will be a stronger team by the end of this semester. It will make our team Her and “대박”
+As you can see in the photo, the front row has a strong person on the computer and the back row has a weak person on the computer. 
+But we will be a stronger team by the end of this semester. It will make our team Her and “대박”
 
