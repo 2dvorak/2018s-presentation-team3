@@ -15,15 +15,14 @@
 ### Brief
  - 연구실 : C&IS LAB (김광조 교수님)
  - 관심 분야 : Post-Quantum Cryptography, 블록체인 
- - 특이사항 : 당구 경로 예상 프로그램 제작 경험 (C++기반)|
- ![NJ_project](images/NJ_project1.jpg)
- 
+ - 특이사항 : 당구 경로 예상 프로그램 제작 경험|
+![NJ_project1](images/NJ_project1.jpg)
 ---
 ### Brief
  - 취미/특기 : 큰 공 No! 작은 공 Yes!
 ![NJ-hate](images/NJ-hate.png)
 ![NJ-love](images/NJ-love.png)| 
- - 학부 탁구 대회 우승
+ - 학부 탁구 대회 우승  
 But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)
 ![NJ_contest](images/NJ_contest.png)
 
@@ -44,7 +43,7 @@ But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)
 ### 개발 환경
 
 ![my_seat](images/my_seat.png)
- - 단점 : 연구실내에선 묵언수행, 편한 의자 = Deep Sleep
+ - 단점 : 연구실내 묵언수행, 편한 의자 = Deep Sleep
 
 ---
 ### 개발 환경
