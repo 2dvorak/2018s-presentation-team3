@@ -67,7 +67,6 @@ It’s able to exercise in a small place unlike soccer. Many people in Air Force
 - 언어 : C언어 조금 알고, 요즘은 Python
 
 - Atom 에디터에서 프로그래밍
-
 ![Logo](images/lab.jpg)
 
 Note:
