@@ -17,12 +17,9 @@ skyshiri
 
 ![Logo](images/skyshiri.jpg)
 
-<div>
-<div style="vertical-align:bottom;font-size:15px;text-align:center;">
-&nbsp;&nbsp;
-<span style="display:table;margin:auto">Image from : http://www.airforce.mil.kr, http://oldconan.tistory.com</span>
+<div style="font-size:15px;">
+Image from : http://www.airforce.mil.kr, http://oldconan.tistory.com
 </div>
-
 
 Note:
 My nickname is skyshiri.s
@@ -60,10 +57,8 @@ proving that my life unrelated to computers.
 
 ![Logo](images/soccer.jpg)
 
-<div>
-<div style="vertical-align:bottom;font-size:15px;text-align:center;">
-&nbsp;&nbsp;
-<span style="display:table;margin:auto">Image from : http://m.cndnews.co.kr/61450</span>
+<div style="font-size:15px;">
+Image from : http://m.cndnews.co.kr/61450
 </div>
 
 Note:
