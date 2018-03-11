@@ -9,6 +9,12 @@
 
 2dvorak
 
+
+Note :
+2dvorak
+story of qwerty and dvorak keyboard
+thought that we should use dvorak keyboard
+
 <div>
 <div class="left" style="width:50%;">
 ![qwerty](images/qwerty.jpg)
@@ -26,11 +32,6 @@
 <br>
 <span style="display:table;margin:auto">Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html</span>
 </div>
-
-Note :
-2dvorak
-story of qwerty and dvorak keyboard
-thought that we should use dvorak keyboard
 
 ---
 
@@ -62,10 +63,10 @@ bachelor’s degree in electrical engineering
 - 퍼포먼스 하락은 함정 (나름 쓸만해요)
 ![Laptop](images/laptop.jpg)
 Note:
-Let me talk about my development environment 
-laptop with Ubuntu installed at external drive 
-portable workspace that I can use anywhere 
-lowers performance but it’s tolerable 
+Let me talk about my development environment  
+laptop with Ubuntu installed at external drive  
+portable workspace that I can use anywhere  
+lowers performance but it’s tolerable  
 don’t recommend
 
 ---
@@ -87,7 +88,7 @@ window snapping feature, also called window tiling
 - Sublime Text
 - 오작동 - 대부분의 리소스를 LOL에 사용
 Note:
-desktop, with window and sublime text 
+desktop, with window and sublime text  
 discarded
 
 ---
@@ -101,7 +102,7 @@ discarded
 Image from : https://symless.com/synergy
 </div>
 Note:
-“Synergy” which is a keyboard and mouse sharing program 
-control multiple computers with one host keyboard and mouse 
-clipboard sharing 
+“Synergy” which is a keyboard and mouse sharing program  
+control multiple computers with one host keyboard and mouse  
+clipboard sharing  
 Thank you. Coming next is Nakjun Choi.
