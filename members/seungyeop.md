@@ -26,6 +26,11 @@
 <br>
 <span style="display:table;margin:auto">Image from : http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html</span>
 </div>
+Note :
+2dvorak
+story of qwerty and dvorak keyboard
+thought that we should use dvorak keyboard
+
 ---
 
 ### Brief
@@ -40,6 +45,10 @@
 <div class="right" style="width:50%;">
 ![circuit](images/circuit.jpg)
 </div>
+Note :
+CySec Lab
+interest
+bachelor’s degree in electrical engineering
 
 ---
 
@@ -50,6 +59,12 @@
 - 어디서든 외장 하드로 부팅하면 작업 환경이 그대로
 - 퍼포먼스 하락은 함정 (나름 쓸만해요)
 ![Laptop](images/laptop.jpg)
+Note:
+Let me talk about my development environment
+laptop with Ubuntu installed at external drive
+portable workspace that I can use anywhere
+lowers performance but it’s tolerable
+don’t recommend
 
 ---
 
@@ -58,6 +73,8 @@
 #### 주 무기 : 노트북
 - Unity tweak tool을 사용한 윈도우 snapping(tiling)
 ![Workspace](images/workspace.png)
+Note:
+window snapping feature, also called window tiling
 
 ---
 
@@ -67,6 +84,9 @@
 - 윈도우
 - Sublime Text
 - 오작동 - 대부분의 리소스를 LOL에 사용
+Note:
+desktop, with window and sublime text
+discarded
 
 ---
 
@@ -78,3 +98,8 @@
 <div style="font-size:10px;">
 Image from : https://symless.com/synergy
 </div>
+Note:
+“Synergy” which is a keyboard and mouse sharing program
+control multiple computers with one host keyboard and mouse
+clipboard sharing
+Thank you. Coming next is Nakjun Choi.
