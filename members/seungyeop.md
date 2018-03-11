@@ -9,12 +9,6 @@
 
 2dvorak
 
-
-Note :
-2dvorak
-story of qwerty and dvorak keyboard
-thought that we should use dvorak keyboard
-
 <div>
 <div class="left" style="width:50%;">
 ![qwerty](images/qwerty.jpg)
@@ -47,11 +41,6 @@ thought that we should use dvorak keyboard
 <div class="right" style="width:50%;">
 ![circuit](images/circuit.jpg)
 </div>
-
-Note :
-CySec Lab
-interest
-bachelor’s degree in electrical engineering
 
 ---
 
