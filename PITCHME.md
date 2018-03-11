@@ -1,6 +1,6 @@
 # HER
 
-- TA : Seongil Wi
+- TA : SeongIl Wi
 - DongHyeon Oh(Team Leader)
 - SeungYeop Lee
 - NakJun Choi
