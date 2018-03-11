@@ -19,7 +19,7 @@
 ![NJ_project1](images/NJ_project1.jpg)
 ---
 ### Brief
- - 취미/특기 : 큰 공 No! 작은 공 Yes!
+ - 취미/특기 : 큰 공 No! 작은 공 Yes!  
 ![NJ-hate](images/NJ-hate.png)
 ![NJ-love](images/NJ-love.png)| 
  - 학부 탁구 대회 우승  
