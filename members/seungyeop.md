@@ -17,7 +17,7 @@
 ![dvorak](images/dvorak.jpg)
 </div>
 </div>
-<div style="vertical-align:bottom;font-size:10px;text-align:center;">
+<div style="vertical-align:bottom;font-size:15px;text-align:center;">
 &nbsp;&nbsp;
 <br>
 <br>
@@ -87,7 +87,7 @@ discarded
 #### 둘 다 쓸때 - "Synergy"
 ![Synergy](images/synergy.png)
 하나의 키보드로 여러 컴퓨터를!
-<div style="font-size:10px;">
+<div style="font-size:15px;">
 Image from : https://symless.com/synergy
 </div>
 Note:
