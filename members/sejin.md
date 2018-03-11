@@ -20,7 +20,6 @@ skyshiri
 <div>
 <div style="vertical-align:bottom;font-size:15px;text-align:center;">
 &nbsp;&nbsp;
-<br>
 <span style="display:table;margin:auto">Image from : http://www.airforce.mil.kr, http://oldconan.tistory.com</span>
 </div>
 
@@ -60,6 +59,12 @@ proving that my life unrelated to computers.
 - 취미/특기 : 족구(왼쪽 striker)
 
 ![Logo](images/soccer.jpg)
+
+<div>
+<div style="vertical-align:bottom;font-size:15px;text-align:center;">
+&nbsp;&nbsp;
+<span style="display:table;margin:auto">Image from : http://m.cndnews.co.kr/61450</span>
+</div>
 
 Note:
 I am not good at sports, but I like foot volleyball at least.
