@@ -41,14 +41,13 @@ But, 교양수업 내 20명 규모의 아주 작은 대회 (^o^)
 ---
 
 ### 개발 환경
-
-![my_seat](images/my_seat.png)
  - 단점 : 연구실내 묵언수행, 편한 의자 = Deep Sleep
+![my_seat](images/my_seat.png)
 
 ---
 ### 개발 환경
-
-![Lab_view](images/Lab_view.jpg)
  - 장점 : N1 건물 9층. 환상적인 View 제공
+![Lab_view](images/Lab_view.jpg)
+
 
 
