@@ -41,6 +41,10 @@ The nickname skyshiri means my wish to live for national security in the Air For
 
 ![Video](https://www.youtube.com/embed/FxJAmava00k)
 
+<div style="font-size:15px;">
+Video from : https://www.youtube.com/watch?v=LzRi-h7jRH4&t=24s
+</div>
+
 Note:
 My lab is Professor 병훈 강‘s Cyber security lab.
 This lab mainly researches the field of system security.
