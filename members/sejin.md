@@ -17,6 +17,9 @@ skyshiri
 
 ![Logo](images/skyshiri.jpg)
 
+image from : http://www.airforce.mil.kr
+image from : http://oldconan.tistory.com/36294
+
 Note:
 My nickname is skyshiri.s
 sky means Repulic of Korea Air force. I love the sky from childhood.
