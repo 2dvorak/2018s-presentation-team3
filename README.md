@@ -36,6 +36,7 @@
       - (2.1과 동일)
 3. Conclusion
 ```
+
 ## Directory structure
 
 > [__PITCHME.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/master/PITCHME.md) * *최종 Presentation 파일* *  

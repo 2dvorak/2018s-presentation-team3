@@ -18,6 +18,10 @@
 
 ![Video](https://www.youtube.com/embed/v5TWdg_MSjw)
 
+<div style="font-size:15px;">
+Video from : https://www.youtube.com/watch?v=O6-ioz8vD7U
+</div>
+
 ---
 
 ### Introduction
@@ -32,8 +36,11 @@
 
 ---
 
-### CONCLUDING REMARK
+### "HER, 대박"
+#### 2 + 2 > 4
+![TEAM_PICTURE](images/team_picture.jpg)
 
-Try to make a good final impression here. You should try to make people want to
-know more about you. Each team can spend at most 1 min. for both introduction
-and conclusion slide.
+Note:
+Our team have two people who are good at computers and two people who are not familiar with computer programmings.
+We will be a stronger team by the end of this semester. It will make our team Her and “대박”
+
