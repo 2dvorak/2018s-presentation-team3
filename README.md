@@ -18,14 +18,6 @@
 |  NakJun Choi    |   팀원   | README & PITCHUSAGE 작성, Typo & 문법 확인 |
 |  SeJin Jeong    |   팀원   | Introduction 작성, Typo & 문법 확인 |
 
-## Abstract
-
-- Team-based Presentation Activity을 위한 프로젝트
-- PITCHME.md는 팀과 팀원들을 소개하는 내용으로 구성
-- Elevator Pitch에 착안하여 하여 concise 하게 자신과 개발 환경에 대해 소개
-- 프레젠테이션을 위해 GitPitch를 사용
-
-
 ## Table of contents
 
 ```
