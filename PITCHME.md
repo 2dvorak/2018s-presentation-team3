@@ -54,7 +54,7 @@
 
 ##### Trust relationship image (DH)
 
-<img src="images/DH_sig2dot.jpg" width=665px height=580px>
+<img src="images/DH_sig2dot.jpg" width=665px height=500px>
 <span style="display:table;margin:auto">Tool : sig2dot</span>
 
 ---
