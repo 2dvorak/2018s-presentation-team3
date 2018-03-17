@@ -48,7 +48,7 @@
 
 ![seungyeop](images/seungyeop.jpg)
 
---
+---
 
 ![nakjun](images/nakjun.jpg)
 
