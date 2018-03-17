@@ -58,13 +58,7 @@
 
 ## Insight
 
-![insight](./images/insight.png)  
-*3월 10일 기준, insight-network
-
- - Issue는 각 멤버들에게 할당된 뒤에, 관련된 Milestone에 추가
- - 각각의 Branch는 Issue에 의해 분리되어 작업
- - Branch네이밍은 issue[Number]-[IssueName] 으로 수행
- - 작업이 끝난 Branch는 master branch로 merge 한 후, 해당 issue를 closed 상태로 변경
+2dvorak was here
 
 ## Usage-gitpitch
 
