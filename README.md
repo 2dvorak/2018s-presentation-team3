@@ -41,6 +41,11 @@
    6.2 SeungYeop Lee
    6.3 NakJun Choi
    6.4 SeJin Jeong
+7. Mission 5
+   7.1 쿵쿵따
+8. Final Mission
+   8.1 Sudden attack
+9. Conclusion
 ```
 
 ## Directory structure
