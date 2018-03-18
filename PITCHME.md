@@ -40,7 +40,7 @@
 
 ### Mission 4
 
-- 팀원들에게 주워진 미션
+- 팀원들에게 주어진 미션
 
 ![Mission-2](images/mission4-2.jpg)
 
