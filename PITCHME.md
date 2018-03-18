@@ -44,13 +44,15 @@
 ### Trust relationship image
 
 - DongHyeon Oh
-![donghyeon](images/Dh_sig2dot.jpg)
+
+![donghyeon](images/DH_sig2dot.jpg)
 
 ---
 
 ### Trust relationship image
 
 - SeungYeop Lee
+
 ![seungyeop](images/SY_sig2dot.jpg)
 
 ---
@@ -58,6 +60,7 @@
 ### Trust relationship image
 
 - NakJun Choi
+
 ![nakjun](images/NJ_sig2dot.jpg)
 
 ---
@@ -65,11 +68,12 @@
 ### Trust relationship image
 
 - SeJin Jeong
+
 ![sejin](images/SJ_sig2dot.jpg)
 
 ---
 
-### HER loves PGP
+### We love PGP
 
 ![HER-PGP](images/HER_PGP.png)
 
