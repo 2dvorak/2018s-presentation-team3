@@ -41,33 +41,25 @@
 
 ---
 
-### Trust relationship image
-
-- DongHyeon Oh
+### Trust relationship image (DH)
 
 ![donghyeon](images/DH_sig2dot.jpg)
 
 ---
 
-### Trust relationship image
-
-- SeungYeop Lee
+### Trust relationship image (SY)
 
 ![seungyeop](images/SY_sig2dot.jpg)
 
 ---
 
-### Trust relationship image
-
-- NakJun Choi
+### Trust relationship image (NJ)
 
 ![nakjun](images/NJ_sig2dot.jpg)
 
 ---
 
-### Trust relationship image
-
-- SeJin Jeong
+### Trust relationship image (SJ)
 
 ![sejin](images/SJ_sig2dot.jpg)
 
