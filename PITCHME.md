@@ -94,25 +94,25 @@
 
 ### Mission 5
 
-![kungkungdda1](images/kungkungdda2.jpg)
+<img src="images/kungkungdda2.jpg" width=300px height=500px>
 
 ---
 
 ### Mission 5
 
-![kungkungdda1](images/kungkungdda3.jpg)
+<img src="images/kungkungdda3.jpg" width=300px height=500px>
 
 ---
 
 ### Final mission
 
-![sudden-mission](images/sudden_mission1.jpg)
+<img src="images/sudden_mission1.jpg" width=300px height=500px>
 
 ---
 
 ### Final mission
 
-![sudden-mission](images/sudden_mission2.jpg)
+<img src="images/sudden_mission2.jpg" width=300px height=500px>
 
 ---
 
