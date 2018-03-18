@@ -41,27 +41,38 @@
 
 ---
 
-### Trust relationship image (DH)
+##### Trust relationship image (DH)
 
 ![donghyeon](images/DH_sig2dot.jpg)
 
 ---
 
-### Trust relationship image (SY)
+##### Trust relationship image (SY)
 
 ![seungyeop](images/SY_sig2dot.jpg)
 
 ---
 
-### Trust relationship image (NJ)
+##### Trust relationship image (NJ)
 
 ![nakjun](images/NJ_sig2dot.jpg)
 
 ---
 
-### Trust relationship image (SJ)
+##### Trust relationship image (SJ)
 
 ![sejin](images/SJ_sig2dot.jpg)
+
+---
+
+### We do
+
+- [O] Verified commit
+- [O] Sign each key
+- [O] Sign group key
+- [O] Decrypt the file
+- [O] Encrypt JPG file
+- [O] Send E-mail using PGP
 
 ---
 
