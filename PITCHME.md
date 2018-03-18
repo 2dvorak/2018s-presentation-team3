@@ -12,7 +12,7 @@
 
 - 각각 키 생성 완료 (With TA)
 
-![Key-info](images/key_info.png)
+<img src="images/key_info.png" width=900px height=460px>
 
 ---
 
