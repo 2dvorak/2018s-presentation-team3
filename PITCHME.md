@@ -43,7 +43,7 @@
 
 ##### Trust relationship image (DH)
 
-<img src="images/DH_sig2dot.jpg" width=776px height=668px>
+<img src="images/DH_sig2dot.jpg" width=665px height=580px>
 
 ---
 
