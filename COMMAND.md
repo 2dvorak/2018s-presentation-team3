@@ -17,7 +17,7 @@ $ gpg --gen-key
 ```
 3.1 파일
   - 내보내기 : $ gpg --export <key ID or identity>
-	      $ gpg --armor --export <key ID or identity>  * *ASCII* *
+	      $ gpg --armor --export <key ID or identity>   *ASCII*
   - 가져오기 : $ gpg --import <key file>
 
 3.2 서버
@@ -31,7 +31,7 @@ $ gpg --fingerprint <key ID>
 ```
 5. 서명하기
 ```
-& gpg --edit-ey <key ID>
+& gpg --edit-key <key ID>
 gpg> sign
 gpg> save
 
@@ -56,7 +56,7 @@ $ gpg --keyserver keyserver.ubuntu.com --refresh-keys
 8. 암호화 및 복호화
 ```
 - 암호화 : & gpg --encrypt <fime> 
-	  & gpg --armor --encrypt <file>  * *ASCII* *
+	  & gpg --armor --encrypt <file>  *ASCII*
 
 - 복호화 : & gpg <암호화된 파일>
 	  & gpg -o <복호화하여 저장할 파일> -d <암호화된 파일>
