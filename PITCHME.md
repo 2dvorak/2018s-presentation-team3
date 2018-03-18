@@ -38,6 +38,14 @@
 
 ---
 
+### Mission 4
+
+- 팀원들에게 주워진 미션
+
+![Mission-2](images/mission4-2.jpg)
+
+---
+
 ### Mission4 Complete
 
 ![Mission-complete](images/mission4_complete.jpg)
