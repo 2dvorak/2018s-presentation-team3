@@ -43,7 +43,7 @@
 
 ##### Trust relationship image (DH)
 
-![donghyeon](images/DH_sig2dot.jpg)
+<image src="images/DH_sig2dot.jpg" width=1000px height=720px>
 
 ---
 
