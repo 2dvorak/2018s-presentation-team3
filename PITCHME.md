@@ -32,6 +32,14 @@
 
 ---
 
+### Practice
+
+- 메일 PGP 전송 연습
+
+<img src="images/mission_pr.png" width=400px height=400px>
+
+---
+
 ### Mission 4
 
 ![Mission](images/mission4.png)
