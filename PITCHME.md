@@ -8,7 +8,7 @@
 
 ---
 
-### Misson 1
+### Mission 1
 
 - 각각 키 생성 완료 (With TA)
 ![Key-info](images/key_info.png)
