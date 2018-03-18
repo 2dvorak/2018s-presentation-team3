@@ -14,9 +14,15 @@
 |:-----------------:|:----------:|------------|
 |  SeongIl Wi     |    TA    |   Advice   |
 |  DongHyeon Oh   |   팀장   | 총괄, css 적용 및 PITCHME.md 작성, Typo & 문법 확인|
-|  SeungYeop Lee  |   팀원   | README.md 작성, Mission(PGP 활용) 수행, Typo & 문법 확인 |
-|  NakJun Choi    |   팀원   | README.md 작성, Mission(PGP 활용) 수행, Typo & 문법 확인 |
+|  SeungYeop Lee  |   팀원   | README.md 수정, Mission(PGP 활용) 수행, Typo & 문법 확인 |
+|  NakJun Choi    |   팀원   | README.md & COMMAND.md 작성, Mission(PGP 활용) 수행, Typo & 문법 확인 |
 |  SeJin Jeong    |   팀원   | issue & branch 관리, Mission(PGP 활용) 수행, Typo & 문법 확인 |
+
+## Abstract
+ - 서명과 암호화&복호화 등 GnuPG에 익숙해지기 위한 프로젝트
+ - PITCHME.md는 각 멤버들이 GnuPG를 얼마나 잘 활용하였는가에 대한 내용으로 구성
+ - Image 등을 활용하여 간결하게 GnuPG 활용 방법과 자신의 Web of trust 등에 대해 소개
+ - GitPitch 사용
 
 ## Table of contents
 
@@ -42,6 +48,7 @@
 >> [__css__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/pgp/assets/css) * *템플릿 설정* *  
 >> [__image__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/pgp/assets/image) * *템플릿 설정을 위한 이미지* *  
 >  
+> [__COMMAND.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/pgp/COMMAND.md) * *GnuPG 사용을 위한 명령어 모음* *  
 > [__images__](https://github.com/KAIST-IS521/2018s-presentation-team3/tree/pgp/images) * *발표자료에 삽입할 이미지* *  
 > [__PITCHME.md__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/pgp/PITCHME.md) * *최종 Presentation 파일* *  
 > [__PITCHME.yaml__](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/pgp/PITCHME.yaml) * *템플릿 설정* *  
@@ -51,3 +58,4 @@
 ## Usage-gitpitch
 
  - [https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/pgp](https://gitpitch.com/KAIST-IS521/2018s-presentation-team3/pgp)
+ - [GnuPG 사용을 위한 명령어 모음](https://github.com/KAIST-IS521/2018s-presentation-team3/blob/pgp/COMMAND.md)
