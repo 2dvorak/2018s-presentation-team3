@@ -8,35 +8,36 @@
 
 ---
 
-### Our key info
+### Misson 1
 
+- 각각 키 생성 완료 (With TA)
 ![Key-info](images/key_info.png)
 
 ---
 
-### Group key
+### Mission 2
 
-- We all sign our group key!
+- 모두 그룹키에 서명 완료
 ![Team-her](images/team_her.jpg)
 
 ---
 
-### Verified Commit
+### Mission 3
 
-- We have a "Verified" commit!
+- 모든 커밋에 서명하기 완료
 ![Commit](images/github_commit.jpg)
 
 ---
 
-### Mission
+### Mission 4
 
-![Mission](images/mission1.jpg)
+![Mission](images/mission4.png)
 
 ---
 
-### Mission Complete
+### Mission4 Complete
 
-![Mission-complete](images/mission2.jpg)
+![Mission-complete](images/mission4_complete.jpg)
 
 ---
 
