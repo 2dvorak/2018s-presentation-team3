@@ -18,7 +18,7 @@
 
 ### Mission 2
 
-- 모두  그룹키에 서명 완료 (With TA)
+- 모두 그룹키에 서명 완료 (With TA)
 
 ![Team-her](images/team_her.jpg)
 
@@ -80,9 +80,59 @@
 
 ---
 
-### Mission5
+### Mission 5
 
 ![kungkungdda](images/kungkungdda.jpg)
+
+---
+
+### Mission 5
+
+![kungkungdda1](images/kungkungdda1.jpg)
+
+---
+
+### Mission 5
+
+![kungkungdda1](images/kungkungdda2.jpg)
+
+---
+
+### Mission 5
+
+![kungkungdda1](images/kungkungdda3.jpg)
+
+---
+
+### Final mission
+
+![sudden-mission](images/sudden_mission1.jpg)
+
+---
+
+### Final mission
+
+![sudden-mission](images/sudden_mission2.jpg)
+
+---
+
+### PGP를 정말로 사랑합니다
+
+- PGP 사용법을 완벽하게 숙지
+- 여러 미션을 통해 PGP와 친해짐
+- PGP 덕분에 팀원들과 돈독해짐
+
+---
+
+### Conclusion
+
+- 각각 키 생성
+- 모두 그룹키에 서명
+- 모든 커밋에 서명
+- 미션을 통한 Decrypt, Encrypt 연습
+- Web of trust image 생성
+- Email에 PGP 전송 연습
+- 쿵쿵따 통한 PGP와 친해지기
 
 ---
 
@@ -90,4 +140,7 @@
 
 ![HER-PGP](images/HER_PGP.png)
 
+---
+
+# Thank you!
 
