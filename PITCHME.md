@@ -17,14 +17,14 @@
 
 ### Mission 2
 
-- 모두 그룹키에 서명 완료
+- 모두  그룹키에 서명 완료 (With TA)
 ![Team-her](images/team_her.jpg)
 
 ---
 
 ### Mission 3
 
-- 모든 커밋에 서명하기 완료
+- 모든 커밋에 서명 완료
 ![Commit](images/github_commit.jpg)
 
 ---
@@ -44,27 +44,33 @@
 ### Trust relationship image
 
 - DongHyeon Oh
-![donghyeon](images/donghyeon.jpg)
+![donghyeon](images/Dh_sig2dot.jpg)
 
 ---
 
 ### Trust relationship image
 
 - SeungYeop Lee
-![seungyeop](images/seungyeop.jpg)
+![seungyeop](images/SY_sig2dot.jpg)
 
 ---
 
 ### Trust relationship image
 
 - NakJun Choi
-![nakjun](images/nakjun.jpg)
+![nakjun](images/NJ_sig2dot.jpg)
 
 ---
 
 ### Trust relationship image
 
 - SeJin Jeong
-![sejin](images/sejin.jpg)
+![sejin](images/SJ_sig2dot.jpg)
+
+---
+
+### HER loves PGP
+
+![HER-PGP](images/HER_PGP.png)
 
 
