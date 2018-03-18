@@ -44,35 +44,34 @@
 ##### Trust relationship image (DH)
 
 <img src="images/DH_sig2dot.jpg" width=665px height=580px>
+<span style="display:table;margin:auto">Tool : sig2dot</span>
 
 ---
 
 ##### Trust relationship image (SY)
 
 ![seungyeop](images/SY_sig2dot.jpg)
+<span style="display:table;margin:auto">Tool : sig2dot</span>
 
 ---
 
 ##### Trust relationship image (NJ)
 
 ![nakjun](images/NJ_sig2dot.jpg)
+<span style="display:table;margin:auto">Tool : sig2dot</span>
 
 ---
 
 ##### Trust relationship image (SJ)
 
 ![sejin](images/SJ_sig2dot.jpg)
+<span style="display:table;margin:auto">Tool : sig2dot</span>
 
 ---
 
-### We do
+### Mission5
 
-- [O] Verified commit
-- [O] Sign each key
-- [O] Sign group key
-- [O] Decrypt the file
-- [O] Encrypt JPG file
-- [O] Send E-mail using PGP
+![kungkungdda](images/kungkungdda.jpg)
 
 ---
 
