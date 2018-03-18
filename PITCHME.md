@@ -20,7 +20,7 @@
 
 - 모두 그룹키에 서명 완료 (With TA)
 
-![Team-her](images/team_her.jpg)
+<img src="images/team_her.jpg" width=400px height=400px>
 
 ---
 
