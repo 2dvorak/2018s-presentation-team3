@@ -1,6 +1,5 @@
 # Why not?
-### IS521 Onion Messenger Activity
-### Team HER
+### IS521 Onion Messenger Activity - Team HER
 
 - TA : SeongIl Wi
 - DongHyeon Oh(Team Leader)
