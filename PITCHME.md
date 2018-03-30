@@ -1,5 +1,5 @@
 # Why not?
-## IS521 Onion Messenger Activity
+### IS521 Onion Messenger Activity
 ### Team HER
 
 - TA : SeongIl Wi
@@ -84,4 +84,4 @@ UI 관련 장점 어필(스크롤 등)
 ---
 
 # Thank you!
-단체사
+단체사진
