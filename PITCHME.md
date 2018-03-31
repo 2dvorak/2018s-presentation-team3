@@ -14,15 +14,15 @@
 ---
 
 ### 툥용되는 메신저 과연 안전?
-![카톡_라인](images/카톡_라인.jpg)
+![kakao_line](images/kakao_line.jpg)
 * 상기 이미지는 예시일뿐, 특정 메신저와 관련이 없습니다.
 ---
 
-![감청문의](images/감청문의.jpg)
+![NIS](images/NIS.jpg)
 
 ---
 
-![판타스틱4](images/판타스틱4합성본.gif)
+![Fantastic4](images/Fantastic4.gif)
 
 ---
 
