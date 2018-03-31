@@ -1,4 +1,4 @@
-# Why not?
+# 제목
 ### Onion Messenger Activity - Team HER
 
 - TA : SeongIl Wi
@@ -91,5 +91,5 @@ UI 관련 장점 어필(스크롤 등)
 
 ---
 
-# Thank you!
+## Thank you!
 ![We](images/We.jpg)
