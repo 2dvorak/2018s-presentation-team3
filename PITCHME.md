@@ -93,4 +93,3 @@ UI 관련 장점 어필(스크롤 등)
 
 # Thank you!
 ![We](images/We.jpg)
-단체사진
