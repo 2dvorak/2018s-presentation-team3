@@ -44,7 +44,10 @@
 
 ---
 
-간단한 명령어 실행.jpg
+1. ./AutoDocker.sh : 도커 설정
+![AutoDocker](images/AutoDocker.png)
+2. ./startMessenger.sh : 프로그램 실행
+![startMessenger](images/startMessenger.png)
 
 ---
 
