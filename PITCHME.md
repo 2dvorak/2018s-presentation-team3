@@ -8,15 +8,10 @@
 - SeJin Jeong
 
 ---
-![test](images/Q1-1.gif)
----
-![test](images/Q1-3.gif)
-
----
 ### Promotion video
 
 ![test](https://www.youtube.com/watch?v=fhbUFvoDev4)
-
+테스
 ---
 
 ### 툥용되는 메신저 과연 안전?
@@ -45,24 +40,29 @@
 ---
 
 ### Question.1
-막 이것저것 깔아야 되는거 아냐?
-NO!!!
+![Q1-4](images/Q1-4.jpg)
+
+---
+
+간단한 명령어 실행.jpg
 
 ---
 
 ### Question.2
-암호화가 실제로 되긴 하는거야?
-YES!!!
+![Q2-1](images/Q2-1.jpg)
+
+---
+
 랜덤경로로 암호화 되는 영상 or gif
 
 ---
 
 ### Question.3
-에이 그럼 엄청 느리겠네
-NO!!!
-GPGME 사용하려고 했는데 너무 느려서 파일 생성 및 삭제로 변경
-Max 5개로 제한
-서버 사용 하지 않기 때문에 서버 영향 X
+![Q3-1](images/Q3-1.jpg)
+
+---
+
+빠른 속도.jpg or gif
 
 ---
 
@@ -72,8 +72,7 @@ UI 관련 장점 어필(스크롤 등)
 
 ---
 
-### 특장점 정리
-위에 언급했던 내용들 정리
+
 
 ---
 
