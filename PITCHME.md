@@ -63,7 +63,7 @@ OnionRouting?
 1. 도커 설정 : ./AutoDocker.sh
 2. 프로그램 실행 : ./startMessenger.sh
 
-![로그인된 화면]()
+![start](images/start.png)
 
 ---
 
@@ -72,7 +72,7 @@ OnionRouting?
 
 ---
 
-랜덤경로로 암호화 되는 영상 or gif
+![Random2](images/Random2.gif)
 
 ---
 
