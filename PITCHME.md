@@ -31,7 +31,8 @@
 
 ### Her 메신저란?
 - PGP를 이용한 암호화된 메시지 송/수신
-- OnionRouting으로 중간단계에서 발신자, 수신자 익명화
+- OnionRouting으로 중간단계에서 발신자,  
+수신자 익명화
 - 메신저 송/수신 경로 random 지정
 - Docker에 생소한 사용자의 편의성 강화
 
@@ -57,8 +58,9 @@ OnionRouting?
 ---
 
 ![Auto](images/Auto.png)
-1. ./AutoDocker.sh : 도커 설정
-2. ./startMessenger.sh : 프로그램 실행
+1. 도커 설정 : ./AutoDocker.sh
+2. 프로그램 실행 : ./startMessenger.sh
+
 ![로그인된 화면]()
 
 ---
@@ -83,6 +85,7 @@ OnionRouting?
 
 ### 특장점
 1.새로운 메시지가 왔을 때 메시지 개수 표시 기능
+
 ![카톡이랑 비교]()
 
 ---
@@ -94,6 +97,7 @@ OnionRouting?
 
 ### 특장점
 3.UI 스크롤 기능
+
 ![스크롤 기능]()
 
 ---
@@ -116,6 +120,7 @@ HER messenger 개발
 
 ### NakJun's passion
 ![NJ3](images/NJ3.png)
+
 GitPitch, 동영상 촬영 및 편집
 ---
 
