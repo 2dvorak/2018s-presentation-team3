@@ -1,5 +1,5 @@
-# 제목
-### Onion Messenger Activity - Team HER
+## Activity3 - Onion Messenger
+### Team HER
 
 - TA : SeongIl Wi
 - DongHyeon Oh(Team Leader)
