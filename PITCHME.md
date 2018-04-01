@@ -42,7 +42,6 @@ OnionRouting?
 
 ---
 
-
 ### 프로그램 시연
 
 ---
@@ -57,10 +56,10 @@ OnionRouting?
 
 ---
 
+![Auto](images/Auto.png)
 1. ./AutoDocker.sh : 도커 설정
-![AutoDocker](images/AutoDocker.png)
 2. ./startMessenger.sh : 프로그램 실행
-![startMessenger](images/startMessenger.png)
+![로그인된 화면]()
 
 ---
 
@@ -83,19 +82,19 @@ OnionRouting?
 ---
 
 ### 특장점
-1. 새로운 메시지가 왔을 때 메시지 개수 표시 기능
-
-UI 관련 장점 어필(스크롤 등)
-
----
-
-### 특장점
-2. OnionRouting에서 padding을 통한 익명성 강화
+1.새로운 메시지가 왔을 때 메시지 개수 표시 기능
+![카톡이랑 비교]()
 
 ---
 
 ### 특장점
-3.
+2.OnionRouting에서 padding을 통한 익명성 강화
+
+---
+
+### 특장점
+3.UI 스크롤 기능
+![스크롤 기능]()
 
 ---
 
