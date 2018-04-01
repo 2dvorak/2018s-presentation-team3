@@ -81,14 +81,14 @@ OnionRouting?
 
 ---
 
-빠른 속도.jpg or gif
+![Fast](images/Fast.gif)
 
 ---
 
 ### 특장점
 1) 새로운 메시지가 왔을 때 메시지 개수 표시 기능
 
-![카톡이랑 비교]()
+![kakao_num3](images/kakao_num3.png)
 
 ---
 
@@ -98,9 +98,9 @@ OnionRouting?
 ---
 
 ### 특장점
-3) UI 스크롤 기능
+3) 방향키를 이용한 스크롤 기능
 
-![스크롤 기능]()
+![scroll](images/scroll.gif)
 
 ---
 
