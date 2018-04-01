@@ -11,7 +11,8 @@
 
 ### 툥용되는 메신저 과연 안전?
 ![kakao_line](images/kakao_line.jpg)
-* 상기 이미지는 예시일뿐, 특정 메신저와 관련이 없습니다.
+* 상기 이미지는 예시일뿐, 특정 메신저와 관련이  
+없습니다.
 
 ---
 
@@ -71,7 +72,7 @@ OnionRouting?
 ![Q2-1](images/Q2-1.jpg)
 
 ---
-
+A와 B 통신시, 메시지가 암호화되어 랜덤으로 다른 노드들을 거치는 모습
 ![Random2](images/Random2.gif)
 
 ---
@@ -81,6 +82,7 @@ OnionRouting?
 
 ---
 
+매우 빠른 전송속도
 ![Fast](images/Fast.gif)
 
 ---
@@ -120,7 +122,7 @@ Off the record
 
 ### Our passion
 Total 399 commits
-![all_commit](images/all_commit.png)
+![all_commit](images/all_commit.jpg)
 
 ---
 
