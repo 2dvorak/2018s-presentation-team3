@@ -94,6 +94,7 @@ OnionRouting?
 
 ### 특장점
 2) OnionRouting에서 padding을 통한 익명성 강화
+![padding](images/padding.png)
 
 ---
 
@@ -113,7 +114,13 @@ Off the record
 
 ---
 ### An important design decision
-![No_GPGME](images/No_gpgme.jpg)
+![No_GPGME](images/No_gpgme.png)
+
+---
+
+### Our passion
+Total 399 commits
+![all_commit](images/all_commit.png)
 
 ---
 
