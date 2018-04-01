@@ -10,7 +10,7 @@
 ---
 ### Promotion video
 
-![Video](https://www.youtube.com/watch?v=fhbUFvoDev4)
+![Video](https://www.youtube.com/embed/fhbUFvoDev4)
 테스트
 ---
 
@@ -107,27 +107,27 @@ OnionRouting?
 
 ---
 ### DongHyeon's passion
+HER messenger 개발 총괄
 ![DH5](images/DH5.png)
 
-HER messenger 개발 총괄
 ---
 
 ### SeungYeop's passion
+HER messenger 개발
 ![SY4](images/SY4.png)
 
-HER messenger 개발
 ---
 
 ### NakJun's passion
+GitPitch, 동영상 촬영 및 편집
 ![NJ3](images/NJ3.png)
 
-GitPitch, 동영상 촬영 및 편집
 ---
 
 ### SeJin's passion
+Sockthread.cpp 함수 개발, README.md 작성
 ![SJ3](images/SJ3.png)
 
-Sockthread.cpp 함수 개발, README.md 작성
 ---
 
 ## Thank you!
