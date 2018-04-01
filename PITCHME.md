@@ -8,9 +8,13 @@
 - SeJin Jeong
 
 ---
+![test](images/test.gif)
 
+---
 ### Promotion video
+
 ![test](https://www.youtube.com/watch?v=fhbUFvoDev4)
+
 ---
 
 ### 툥용되는 메신저 과연 안전?
