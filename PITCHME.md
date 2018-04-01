@@ -10,7 +10,7 @@
 ---
 ### Promotion video
 
-![Video](https://www.youtube.com/watch?v=fhbUFvoDev4)
+![Video](https://youtu.be/fhbUFvoDev4)
 테스트
 ---
 
