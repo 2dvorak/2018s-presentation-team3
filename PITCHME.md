@@ -8,11 +8,6 @@
 - SeJin Jeong
 
 ---
-### Promotion video
-
-![Video](https://www.youtube.com/embed/fhbUFvoDev4)
-테스트
----
 
 ### 툥용되는 메신저 과연 안전?
 ![kakao_line](images/kakao_line.jpg)
@@ -24,8 +19,15 @@
 
 ---
 
-### 우리가 왔다!
+### Fantastic HER!
 ![Fantastic4](images/Fantastic4.gif)
+
+---
+
+### Promotion video
+
+![Video](https://www.youtube.com/embed/fhbUFvoDev4)
+테스트
 
 ---
 
@@ -84,21 +86,34 @@ OnionRouting?
 ---
 
 ### 특장점
-1.새로운 메시지가 왔을 때 메시지 개수 표시 기능
+1) 새로운 메시지가 왔을 때 메시지 개수 표시 기능
 
 ![카톡이랑 비교]()
 
 ---
 
 ### 특장점
-2.OnionRouting에서 padding을 통한 익명성 강화
+2) OnionRouting에서 padding을 통한 익명성 강화
 
 ---
 
 ### 특장점
-3.UI 스크롤 기능
+3) UI 스크롤 기능
 
 ![스크롤 기능]()
+
+---
+
+### 지금 바로 전화주세요!
+![HER](images/HER.jpg)
+
+---
+
+Off the record
+
+---
+### An important design decision
+![No_GPGME](images/No_gpgme.jpg)
 
 ---
 
@@ -106,6 +121,17 @@ OnionRouting?
 ![Issues](images/Issues.png)
 
 ---
+
+### Our passion
+![Issues2](images/Issues2.png)
+
+---
+
+### Our passion
+![Issues3](images/Issues3.png)
+
+---
+
 ### DongHyeon's passion
 HER messenger 개발 총괄
 ![DH5](images/DH5.png)
