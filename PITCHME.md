@@ -81,25 +81,24 @@ UI 관련 장점 어필(스크롤 등)
 
 ---
 ### DongHyeon's passion
-![DH5](images/DH5.png)  
+![DH5](images/DH5.png)
 
 HER messenger 개발 총괄
 ---
 
 ### SeungYeop's passion
-![SY4](images/SY4.png)  
+![SY4](images/SY4.png)
 
 HER messenger 개발
 ---
 
 ### NakJun's passion
-![NJ3](images/NJ3.png)  
-
+![NJ3](images/NJ3.png)
 GitPitch, 동영상 촬영 및 편집
 ---
 
 ### SeJin's passion
-![SJ3](images/SJ3.png)  
+![SJ3](images/SJ3.png)
 
 Sockthread.cpp 함수 개발, README.md 작성
 ---
