@@ -72,7 +72,8 @@ OnionRouting?
 ![Q2-1](images/Q2-1.jpg)
 
 ---
-A와 B 통신시, 메시지가 암호화되어 랜덤으로 다른 노드들을 거치는 모습
+A와 B 통신시, 메시지가 암호화되어  
+랜덤으로 다른 노드들을 거치는 모습
 ![Random2](images/Random2.gif)
 
 ---
@@ -122,6 +123,7 @@ Off the record
 
 ### Our passion
 Total 399 commits
+
 ![all_commit](images/all_commit.jpg)
 
 ---
