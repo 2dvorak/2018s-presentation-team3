@@ -11,7 +11,7 @@
 ### Promotion video
 
 ![test](https://www.youtube.com/watch?v=fhbUFvoDev4)
-테스
+테스트
 ---
 
 ### 툥용되는 메신저 과연 안전?
@@ -76,23 +76,27 @@ UI 관련 장점 어필(스크롤 등)
 
 ---
 
-### 팀원 열정 (1/4)
-동현 카톡 image & 맡은 부분 설명
+### Our passion
+![Issues](images/Issues.png)
+
+---
+### DongHyeon's passion
+![DH5](images/DH5.png)
 
 ---
 
-### 팀원 열정 (2/4)
-승엽 카톡 image & 맡은 부분 설명
+### SeungYeop's passion
+![SY4](images/SY4.png)
 
 ---
 
-### 팀원 열정 (3/4)
-낙준 동영상 NG 장면들 gif(?) 고민중 & 맡은 부분 설명
+### NakJun's passion
+![NJ3](images/NJ3.png)
 
 ---
 
-### 팀원 열정 (4/4)
-세진 리드미 image & 맡은 부분 설명
+### SeJin's passion
+![SJ3](images/SJ3.png)
 
 ---
 
