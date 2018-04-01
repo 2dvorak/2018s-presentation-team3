@@ -27,8 +27,7 @@
 
 ### Promotion video
 
-![Video](https://www.youtube.com/embed/fhbUFvoDev4)
-테스트
+![Video](https://www.youtube.com/embed/_vM5P_uhX68)
 
 ---
 
@@ -51,7 +50,7 @@ OnionRouting?
 ---
 
 ### 질문있습니다!
-![Question]()
+![Pf.Cha1](images/Pf.Cha1.png)
 
 ---
 
