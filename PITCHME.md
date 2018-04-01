@@ -8,7 +8,9 @@
 - SeJin Jeong
 
 ---
-![test](images/test.gif)
+![test](images/Q1-1.gif)
+---
+![test](images/Q1-3.gif)
 
 ---
 ### Promotion video
